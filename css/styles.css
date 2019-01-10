@@ -1,0 +1,23 @@
+.tamarindo{
+  color: blue;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.nosara{
+  color: orange;
+  font-style: italic;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+img{
+  border: 15px solid lightblue;
+}
+
+.about{
+  color: green;
+  text-align: center;
+  font-style: oblique;
+}
